@@ -14,9 +14,9 @@ function HomePage() {
                     </div>
 
                     <div className="space-y-2">
-                        <p className="infoText">"Explain something to me"</p>
-                        <p className="infoText">"What is the differnce between a dog and a cat?"</p>
-                        <p className="infoText">"What is the color of the sun?"</p>
+                        <p className="infoText">"Explain how ChatGPT works"</p>
+                        <p className="infoText">"Do recruiters know if you use chatGPT for outreach?"</p>
+                        <p className="infoText">"Tell me how many applications jr swe's typically submit before scoring a jobby-job?"</p>
                     </div>
                 </div>
                 <div>
