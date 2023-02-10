@@ -32,7 +32,7 @@ export default async function handler(
     createdAt: admin.firestore.Timestamp.now(),
     user: {
       _id: 'ChatGPT',
-      name: 'ChatpGPT',
+      name: 'ChatGPT',
       avatar: 'https://links.papareact.com/89k',
     },
   };
