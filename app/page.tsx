@@ -7,8 +7,7 @@ function HomePage() {
             <h1 className="text-5xl font-bold mb-20">ChatterBoxGPT </h1>
             <div className='flex space-x-2 text-center'>
                 <div>
-                    <div className="flex flex-col items-center justify-centermb-5">
-                        {/* Sun Icon */}
+                    <div className="flex flex-col items-center justify-center mb-5">
                         <SunIcon className="h-8 w-8" />
                         <h2>Examples</h2>
                     </div>
@@ -16,12 +15,11 @@ function HomePage() {
                     <div className="space-y-2">
                         <p className="infoText">"Explain how ChatGPT works"</p>
                         <p className="infoText">"Do recruiters know if you use chatGPT for outreach?"</p>
-                        <p className="infoText">"Tell me how many applications jr swe's typically submit before scoring a jobby-job?"</p>
+                        <p className="infoText">"How many applications do SWEs typically submit"</p>
                     </div>
                 </div>
                 <div>
-                    <div className="flex flex-col items-center justify-centermb-5">
-                        {/* Sun Icon */}
+                    <div className="flex flex-col items-center justify-center mb-5">
                         <BoltIcon className="h-8 w-8" />
                         <h2>Capabilities</h2>
                     </div>
@@ -33,8 +31,8 @@ function HomePage() {
                     </div>
                 </div>
                 <div>
-                    <div className="flex flex-col items-center justify-centermb-5">
-                        {/* Sun Icon */}
+                    <div className="flex flex-col items-center justify-center mb-5">
+                       
                         <ExclamationTriangleIcon className="h-8 w-8" />
                         <h2>Limitations</h2>
                     </div>
